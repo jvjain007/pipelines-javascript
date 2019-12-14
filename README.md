@@ -2,6 +2,7 @@
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
 For more information on building JavaScript or NodeJS applications, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
+[![Build Status](https://dev.azure.com/awsvjain/14Dec_GitHubProjects/_apis/build/status/jvjain007.pipelines-javascript?branchName=master)](https://dev.azure.com/awsvjain/14Dec_GitHubProjects/_build/latest?definitionId=12&branchName=master)
 
 # Test lines added by VJ
 Check if the changes work with pull request
